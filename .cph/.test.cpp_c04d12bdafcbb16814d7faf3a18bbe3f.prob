@@ -1,0 +1,1 @@
+{"name":"Local: test","url":"/Users/aaquibniaz/Documents/cp/test.cpp","tests":[{"id":1757221192929,"input":"[1,8,6,2,5,4,8,3,7]","output":"49"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/aaquibniaz/Documents/cp/test.cpp","group":"local","local":true}
